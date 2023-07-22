@@ -58,7 +58,7 @@ class _HomeState extends State<Home> {
         width: double.infinity,
         decoration: BoxDecoration(
             gradient: LinearGradient(
-                colors: [Colors.purple.shade400, Colors.purple])),
+                colors: [Colors.purpleAccent.shade400, Colors.purple])),
         child: Column(
           children: [
             Padding(
